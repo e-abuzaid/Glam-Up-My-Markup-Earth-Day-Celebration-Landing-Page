@@ -113,7 +113,7 @@ h1 {
 #earth {
   width: 400px;
   height: 400px;
-  background: url("world.jpg");
+  background: url("earth.webp");
   background-size: cover;
   border-radius: 50%;
   box-shadow: 20px 0 20px #0004, -20px 0 20px #fff2, inset 50px 0 50px #fff5,
@@ -196,7 +196,7 @@ article,
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  background-image: url("arrow.png");
+  background-image: url("arrow.webp");
   background-position: left 200px center;
   background-repeat: no-repeat;
   background-size: 200px auto;
@@ -248,7 +248,7 @@ footer {
   justify-content: center;
   padding: 40px 20px;
   width: 100%;
-  background-image: url("leaf.png");
+  background-image: url("leaf.webp");
   background-position: right 200px center;
   background-repeat: no-repeat;
   background-size: 100px auto;
